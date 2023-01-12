@@ -15,10 +15,10 @@ The algorithms is based on Two pointers tecnic and runs in n*log(n)
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Coding-Challenge---MachEight
 ```
 
-To run the test
+Run the unit tests
 
 ```bash
   python test_pair_sums.py
