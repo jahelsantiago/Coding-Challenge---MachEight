@@ -2,7 +2,7 @@
 # Coding Challenge - MachEight
 
 
-The algorithms is based on Two pointers tecnic and runs in n*log(n)
+The algorithms is based on Two pointers tecnic and runs in $$nlog(n)$$ time.
 
 
 ## Run Locally
