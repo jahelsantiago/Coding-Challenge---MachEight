@@ -27,7 +27,7 @@ Run the unit tests
 Run the terminal version
 
 ```bash
-  npm run start
+  python main.py
 ```
 
 Write a list of numbers to search separated by coma and the targert sperated by space
